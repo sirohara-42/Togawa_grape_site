@@ -97,3 +97,4 @@ npx serve .
 本專案為零依賴純前端架構 (Pure HTML/CSS/JS)，可直接上傳至：
 - **GitHub Pages**：將程式碼推送至 GitHub 儲存庫，在 Settings -> Pages 選擇 `main` 分支根目錄即可自動發佈。
 - **Vercel / Netlify / Cloudflare Pages**：直接拖曳資料夾或連接 Git 儲存庫即可完成秒級全球 CDN 部署。
+
